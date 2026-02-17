@@ -593,7 +593,7 @@ const RamzanCalendar = () => {
           <div className="text-center mb-2">
             <div className="flex justify-center mb-4 perspective-1000">
               <Image
-                src="/gce.png"
+                src="/gce-removebg-preview.png"
                 alt="College Logo"
                 width={130}
                 height={130}
