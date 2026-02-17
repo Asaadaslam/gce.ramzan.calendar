@@ -597,7 +597,7 @@ const RamzanCalendar = () => {
                 alt="College Logo"
                 width={130}
                 height={130}
-                className="w-16 h-16 sm:w-20 sm:h-20 md:w-32 md:h-32 object-contain rounded-full"
+                className="w-18 h-18 sm:w-24 sm:h-24 md:w-36 md:h-36 object-contain rounded-full"
 
               />
             </div>
