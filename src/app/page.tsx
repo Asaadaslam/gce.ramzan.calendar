@@ -79,7 +79,7 @@ const RamzanCalendar = () => {
 
     // Convert back to hours and minutes
     let newHours = Math.floor(totalMinutes / 60) % 24;
-    let newMinutes = totalMinutes % 60;
+    const newMinutes = totalMinutes % 60;
 
     // Handle negative minutes
     let adjustedMinutes = newMinutes;
@@ -1035,3 +1035,4 @@ const RamzanCalendar = () => {
 };
 
 export default RamzanCalendar;
+
